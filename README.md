@@ -9,8 +9,8 @@ Get Claude Code running your product marketing research and strategy in 35 minut
 Already familiar with Claude Code and Git? Here's the fast path:
 
 ```bash
-git clone https://github.com/matteotitta/claude-code-pmm-quickstart.git
-cd claude-code-pmm-quickstart
+git clone https://github.com/matteotitta/genesys-claude-code-pmm-quickstart.git
+cd genesys-claude-code-pmm-quickstart
 ```
 
 Open in Cursor or VS Code. Click the orange Claude Code icon in the right sidebar.
@@ -150,7 +150,7 @@ Research layer:
 1. In Claude UI, paste this command and press Enter:
 
 ```bash
-git clone https://github.com/matteotitta/claude-code-pmm-quickstart.git .
+git clone https://github.com/matteotitta/genesys-claude-code-pmm-quickstart.git .
 ```
 
 2. Wait for cloning to complete
@@ -189,7 +189,7 @@ Type `/health-check` to verify everything is set up correctly.
 ## Folder structure
 
 ```
-claude-code-pmm-quickstart/
+genesys-claude-code-pmm-quickstart/
 ├── .claude/
 │   ├── commands/          → /quickstart, /context-loop, /health-check, /next-steps, /learn
 │   ├── skills/            → 10 skills, each with a SKILL.md and example-output.md
@@ -242,4 +242,4 @@ W4: Full system                  → Scale: agents, hooks, rules, memory, sessio
 
 Built by [Matteo Tittarelli](https://www.linkedin.com/in/matteo-titta/), founder at [Genesys Growth](https://genesysgrowth.com).
 
-[Book a call](https://calendly.com/genesys-growth/discovery-call) · [Newsletter](https://newsletter.genesysgrowth.com/) · [Star this repo](https://github.com/matteotitta/claude-code-pmm-quickstart)
+[Book a call](https://calendly.com/genesys-growth/discovery-call) · [Newsletter](https://newsletter.genesysgrowth.com/) · [Star this repo](https://github.com/matteotitta/genesys-claude-code-pmm-quickstart)
